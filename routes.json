@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Lago di Tovel Panorama Trail",
+    "duration": 2.5,
+    "lat": 46.261,
+    "lon": 10.946,
+    "info": "https://www.visittrentino.info/en/guide/tour/lago-di-tovel",
+    "map": "https://www.komoot.com"
+  },
+  {
+    "name": "Rifugio Nambino Walk",
+    "duration": 2,
+    "lat": 46.227,
+    "lon": 10.785,
+    "info": "https://www.visittrentino.info/en/guide/tour/rifugio-nambino",
+    "map": "https://www.komoot.com"
+  }
+]
